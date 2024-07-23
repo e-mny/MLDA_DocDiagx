@@ -6,7 +6,7 @@ Submission for MLDA Hackathon 2024
 
 This project focuses on using Reinforcement Learning (RL) to optimize Dynamic Treatment Regimes (DTRs) for HIV patients in developing countries. 
 
-The goal is to enhance healthcare outcomes by improving treatment strategies and resource allocation, aligning with the UN's Sustainable Development Goals objective of achieving Good Health & Well-Being.
+As resources are scarce and healthcare accessibility may be poor in developing nations, the goal is to enhance healthcare outcomes by improving treatment strategies and resource allocation.
 
 ## 📌 Problem Statement
 
