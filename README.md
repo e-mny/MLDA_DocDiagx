@@ -11,7 +11,7 @@ The goal is to enhance healthcare outcomes by improving treatment strategies and
 ## 📌 Problem Statement
 
 **Achieving GOOD HEALTH & WELL-BEING in the World!**  
-Develop and implement a Reinforcement Learning-based approach to optimize treatment regimens for HIV patients in developing countries, ensuring that healthcare resources are used efficiently and effectively.
+Develop and implement a Reinforcement Learning-based approach to solve one or many of the Sustainability and Development Goals (SDG's) formulated by the United Nations.
 
 ## ❗ Objectives
 
