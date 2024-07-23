@@ -31,7 +31,6 @@ Develop and implement a Reinforcement Learning-based approach to optimize treatm
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries (listed in `requirements.txt`)
 
 ### 📝 Steps
 
