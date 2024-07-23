@@ -65,6 +65,6 @@ Develop and implement a Reinforcement Learning-based approach to optimize treatm
 
 ## Acknowledgments
 
-- Special thanks to all team members and contributors.
+- Special thanks to Team BabyBoss.
 - Inspired by global health initiatives and advancements in AI for healthcare.
 
